@@ -31,3 +31,48 @@ Bilgi paylaştıkça artar.
 2. .htaccess   içerisinde RewriteBase klasörü / yapılmalı veya klasör durumuna göre düzenlenmelidir.
 
 İyi kodlar.. :)
+
+
+# E ticaret sistemi ana Görselleri
+Ana sayfa
+![alt text](https://www.sayganweb.com/github/eticaret/bmthana.jpg)
+Ürün Listesi
+![alt text](https://www.sayganweb.com/github/eticaret/bmth11e.jpg)
+Ürün Detayı
+![alt text](https://www.sayganweb.com/github/eticaret/bmth4e.jpg)
+Sepet
+![alt text](https://www.sayganweb.com/github/eticaret/bmth5e.jpg)
+Satın Alım
+![alt text](https://www.sayganweb.com/github/eticaret/bmth6e.jpg)
+Satın Alınan ürünler ve kargo takibi
+![alt text](https://www.sayganweb.com/github/eticaret/bmth8e.jpg)
+Kullanıcı bilgi düzenleme
+![alt text](https://www.sayganweb.com/github/eticaret/bmth9e.jpg)
+Hakkımızda
+![alt text](https://www.sayganweb.com/github/eticaret/bmth10e.jpg)
+Hakkımızda
+![alt text](https://www.sayganweb.com/github/eticaret/bmth10e.jpg)
+
+# E ticaret sistemi Panel Görselleri
+Anasayfa
+![alt text](https://www.sayganweb.com/github/eticaret/bmth12y.jpg)
+Ürün Listesi
+![alt text](https://www.sayganweb.com/github/eticaret/bmth13y.jpg)
+Ürün Düzenlenmesi
+![alt text](https://www.sayganweb.com/github/eticaret/bmth14y.jpg)
+Ürün Ekleme
+![alt text](https://www.sayganweb.com/github/eticaret/bmth15y.jpg)
+Slider işlemleri
+![alt text](https://www.sayganweb.com/github/eticaret/bmth16y.jpg)
+Kullanıcı yönetimi işlemleri
+![alt text](https://www.sayganweb.com/github/eticaret/bmth17y.jpg)
+Satın alınan ürün listesi
+![alt text](https://www.sayganweb.com/github/eticaret/bmth18y.jpg)
+Satın alınan ürün Kargo bilgisi girme
+![alt text](https://www.sayganweb.com/github/eticaret/bmth19y.jpg)
+Satın alınan ürün işlem durumu girme
+![alt text](https://www.sayganweb.com/github/eticaret/bmth20y.jpg)
+İletişimden gelen mesajlar
+![alt text](https://www.sayganweb.com/github/eticaret/bmth21y.jpg)
+Profil düzenleme
+![alt text](https://www.sayganweb.com/github/eticaret/bmth22y.jpg)
