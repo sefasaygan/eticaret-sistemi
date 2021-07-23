@@ -28,7 +28,7 @@ Bilgi paylaştıkça artar.
 
 # kurulum
 1. php/veritabani.php  içerisinde veritabanı ayarlarını yapmanız gerekmektedir. 3 adet bağlantı bulunmakta ve düzenlenmesi gerekmektedir.
-2. .htaccess   içerisinde RewriteBase klasörü / yapılmalı veya klasör durumuna göre düzenlenmelidir.
+2. htaccess.php  dosya adını .htaccess yapılması lazım ve    içerisinde RewriteBase klasörü / yapılmalı veya klasör durumuna göre düzenlenmelidir.
 
 İyi kodlar.. :)
 
